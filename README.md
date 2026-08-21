@@ -13,13 +13,13 @@ I am interested in:
 
 ## Projects
 
-### Battle Game (C#)
+### [Battle Game (C#)](https://github.com/57Anonymous34/LernPeriode-6)
 A console-based battle game developed in C# using object-oriented programming principles.
 
-### USA Housing Analysis
+### [USA Housing Analysis](https://github.com/57Anonymous34/USA_housing_analysing)
 A machine learning project using Python to analyze and predict housing prices.
 
-### Crypto Price Tracker
+### [Crypto Price Tracker](https://github.com/57Anonymous34/Lernperiode-7)
 A web application that displays cryptocurrency prices, search functions, filters and interactive charts.
 
 ## Skills
