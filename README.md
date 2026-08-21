@@ -33,4 +33,4 @@ A web application that displays cryptocurrency prices, search functions, filters
 - Git & GitHub
 
 ## Contact
-LinkedIn: [https://www.linkedin.com/in/amar-jashari-50a53a414/]
+[LinkedIn](https://www.linkedin.com/in/amar-jashari-50a53a414/)
